@@ -1,0 +1,454 @@
+ /********** All-Pages ***********/
+@font-face {
+    font-family: Amble-Regular;
+    src: url(/fonts/amble/Amble-Regular.ttf);
+    font-size:1.0em;
+    font-weight:normal;
+}
+@font-face {
+    font-family: Amble-Italic;
+    src: url(/fonts/amble/Amble-Italic.ttf);
+    font-size:1.0em;
+    font-weight:normal;
+}
+@font-face {
+    font-family: Amble-Bold;
+    src: url(/fonts/amble/Amble-Bold.ttf);
+    font-size:1.0em;
+    font-weight:normal;
+}
+@font-face {
+	font-family: Amble-Light;
+    src: url(/fonts/amble/Amble-Light.ttf);
+    font-size:1.0em;
+    font-weight:normal;
+}
+@font-face{
+font-family: Amble-LightItalic;
+    src: url(/fonts/amble/Amble-LightItalic.ttf);
+    font-size:1.0em;
+    font-weight:normal;
+}
+
+@font-face{
+font-family: Amble-LightCondensed;
+    src: url(/fonts/amble/Amble-LightCondensed.ttf);
+    font-size:1.0em;
+    font-weight:normal;
+}
+@font-face{
+font-family: Amble-LightCondencedItalic;
+    src: url(/fonts/amble/Amble-LightCondensedItalic.ttf);
+    font-size:24px;
+}
+/***************************************************/
+html{
+	position:relative;
+	min-height:100%;
+	font-family: Amble-Regular, sans-serif;
+	font-size:.75em;
+}
+body{
+	font-family: "Amble-Regular", sans-serif;
+	margin-bottom:150px;
+	font-size:1.0em;
+  overflow-x:hidden;
+}
+.main-page
+{ font-family: "Amble-Regular", san-serif;
+	font-size:1.0em;
+	padding:10px; }
+hr{
+	margin-top:10px;
+	margin-bottom:10px;
+	border:1px solid #4D1F5B;
+}
+h1,
+.h1 { font-family: "Amble-Regular", sans-serif;
+	font-size:4.5em;
+
+}
+h2,
+.h2{
+	font-family: "Amble-Light", sans-serif;
+	font-size:2.0em;
+  font-weight: bolder;
+
+}
+h3,
+.h3 {
+	font-family: "Amble-Light", sans-serif;
+	font-size:1.75em;
+
+}
+h4,
+.h4 {
+	font-family: "Amble-LightCondensed", sans-serif;
+	font-size:1.5em;
+	font-weight:normal;
+}
+h5,
+.h5 {
+	font-family: "Amble-Bold", sans-serif;
+	font-size: 1.4em;
+
+}
+h6,
+.h6 {
+	font-family: "Amble-Regular", sans-serif;
+	font-size:1.3em;
+
+}
+.h7 {
+	font-family:"Amble-LightItalic", sans-serif;
+	font-size:1.25em;
+}
+.h8 {
+	font-family:"Amble-LightCondensedItalic", sans-serif;
+	font-size:1.0em;
+}
+.col-md-9 {
+	padding-left:35px;
+	padding-top:0px;
+	padding-right:10px;
+}
+p.h7 {
+	padding-top:15px;
+}
+.smLogo { padding-top:10px;}
+}
+
+ul {
+list-style-image: url("../images/purple.png");
+}
+}
+ul.diamond {
+ list-style-image: url("../images/purple.png");
+}
+
+ul.nobullets {
+	list-style-type: none;
+}
+
+.eventlinks a { font-weight:bold;
+				font-size:1.10em;
+			}
+.wetfeet a { font-weight:bold;
+			font-size:1.10em;
+	}
+.eventlinks a:hover {text-decoration:underline;}
+.wetfeet a:hover {text-decoration:underline;}
+
+.main-container{
+	margin-bottom:50px;
+}
+.container {
+	margin-top:5px;
+}
+.rit{
+	font-family: 'Georgia', 'Times New Roman', 'Times', serif;
+}
+.btn-primary{
+	color:#ffffff;
+	background-color:#4D1F5B;
+	border:0px;
+}
+.header{
+	width:100%;
+	padding:5px;
+	color:#4D1F5B;
+	background-color:#EDE8EE;
+}
+.header a{
+	color:#ffffff;
+	padding:0px;
+}
+.nav li a{
+  color:#ffffff;
+}
+
+.logo{
+	max-height:100px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+#WiC-Logo{
+  float:left;
+}
+a {color:#8E3D62;}
+a:link {text-decoration: none;}
+a:hover { background-color: #4D1F5B;
+		  color:#EDE8EE;
+}
+
+.navbar-collapse{
+	padding-left:10px;
+}
+.nav li {
+	margin-right:0px;
+	float:left;
+}
+.nav li a{
+	/*padding-top:5px;
+	padding-bottom:5px;
+*/
+}
+.nav > li > a:hover{
+	/*color:#FFFFFF;*/
+	color: #4D1F5B;
+	/*background-color:#4D1F5B;*/
+	background-color:#EDE8EE;
+	/*border-bottom: 4px solid #B7A5BD; */
+
+}
+.navbar-default {
+	background-color:#4D1F5B;
+	border: 0;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #FFFFFF;
+}
+.navbar-default .navbar-nav > li > a:hover {
+    background-color:none;
+    color:#FFFFFF;
+}
+
+.navbar-toggle {
+	border-color:#FFFFFF;
+}
+.navbar-form {
+  border: none;
+}
+
+.btnheader {
+background-color:#4D1F5B;
+}
+.carousel-control a{
+	text-decoration:none;
+	}
+.carousel-control.left:hover{
+background-color:none;
+background-image:none;
+}
+.carousel-control.right:hover {
+background-color:none;
+background-image:none;
+}
+.carousel-img{
+  height: 650px;
+  width: 100%;
+  object-fit: cover;
+}
+.footer{
+	position:absolute;
+	bottom:0px;
+	width:100%;
+	height:150px;
+	padding:10px;
+}
+#wicfooter{
+	color:#CD9EF9;
+	padding-left:20px;
+	padding-right:20px;
+}
+#wicfooter a,i{
+	color:#4D1F5B;
+}
+#ritfooter{
+	color:#ffffff;
+	background-color:#000000;
+	padding:20px;
+}
+#ritfooter a{
+	color:#919191;
+}
+/********** Index Page ***********/
+.article-row{
+	margin-bottom:10px;
+}
+.content-row{
+	margin-top:10px;
+}
+.main-image{
+	max-height:350px;
+	padding:20px;
+}
+.main-content{
+	padding:20px;
+}
+.wic-hacks{
+	padding:10px;
+	background-color:#B5B2B8;
+}
+.wic-hacks-logo{
+	max-height:30px;
+}
+.article-info{
+	margin-left:25px;
+}
+.article{
+	color:#4D1F5B;
+}
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.meetings li{
+  font-size: .8em;
+  padding: 7px 0px 7px 0px;
+}
+
+.meetings ul{
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+/*.meetings{
+  height: 350px;
+}*/
+
+.featNws div{
+  margin: 0px 2px 0px 2px;
+  padding: 6px 0px 6px 0px;
+}
+
+.announce{
+	margin-top: 2em;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+.announce h3{
+	text-align: center;
+}
+.announce p{
+	font-size: 1.4em;
+}
+.announce a{
+	color: #3D5C10;
+	font-size: 1.5em;
+}
+
+/****** color and font *************/
+.WiColor {color:#4D1F5B;
+			}
+.WiCcolorBK {
+	background-color: #ede8ee;
+  padding-bottom:20px;
+}
+.quote1 {
+margin-top:20px;
+height: 10em;
+width: 16em;
+padding:1em;
+-moz-border-radius: 1em 4em 1em 4em;
+border-radius: 1em 4em 1em 4em;
+	}
+
+.quote2 {
+margin-top:20px;
+height: 10em;
+width: 16em;
+padding:1em;
+-moz-border-radius: 4em 1em 4em 1em;
+border-radius: 4em 1em 4em 1em;
+	}
+
+.wicmenu {
+	padding-left:28%;
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	background-color: #4D1F5B;
+	color:#FFFFFF;
+	}
+.toppad{
+  padding-top:20px;
+}
+.big-nav {
+	min-width:600px;
+	}
+/********** About Page ***********/
+.side-nav a{
+	color:#FFFFFF;
+}
+.side-nav {
+	font-size: 18px;
+	background-color: #4D1F5B;
+	padding:10px;
+}
+.commiteeHeadImg{
+	width:200px;
+}
+
+.img-circle{
+  border-radius: 70%;
+  border: 2px solid black;
+}
+
+/********** News Page ***********/
+.news .news-header i{
+	color:#4D1F5B;
+}
+.news .news-footer{
+	color:grey;
+}
+.image-responsive {width:100%;}
+/************* side panel ********/
+.panel {
+font-size: 1.5em;
+}
+.panel-title {
+	text-transform: uppercase;
+	color: #4D1F5B;
+}
+a.list-group-item {
+  color: #4D1F5B;
+}
+a.list-group-item:hover,
+a.list-group-item:focus {
+  color: #4D1F5B;
+  text-decoration: none;
+  background-color: #ede8ee;
+}
+#links-panel a:hover,
+#links-panel a:focus {
+	color: #4D1F5B;
+}
+#links-panel a:active
+#links-panel > h4:first-of-type {
+	margin-top: 0;
+	color:#4D1F5B;
+}
+.list-group-item.active,
+.list-group-item.active:hover,
+.list-group-item.active:focus {
+  z-index: 2;
+  color: #fff;
+  background-color: #4D1F5B;
+  border-color: #4D1F5B;
+}
+.list-group-item.active .list-group-item-text,
+.list-group-item.active:hover .list-group-item-text,
+.list-group-item.active:focus .list-group-item-text
+{
+  color: #4D1F5B;
+}
+
+/***** Interview Pages *******/
+.interview{
+  padding-bottom: 1em;
+}
+
+.interviewheader{
+  padding: 0px;
+  margin: 0px;
+}
+/***** Events Page *******/
+iframe{
+  float: left;
+  border: solid 1px #777;
+  width: 90%;
+  height: 500px;
+  margin-left:20px;
+}
