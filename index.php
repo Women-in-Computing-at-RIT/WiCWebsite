@@ -42,22 +42,22 @@
             		</ol>
             		<div class="carousel-inner" role="listbox">
               			<div class="item active">
-                			<img class="carousel-img" src="/images/ghc2015_index2015.jpg">
+                			<img class="carousel-img" src="/images/Outside_Golisano.jpg">
               			</div>
                     <div class="item">
-                			<img class="carousel-img" src="/images/WH16.jpg">
+                			<img class="carousel-img" src="/images/WiC_Pre-Orientation_2016.jpg">
               			</div>
               			<div class="item">
-                			<img class="carousel-img" src="/images/CH16.jpg">
+                			<img class="carousel-img" src="/images/GCCIS_Club_Day_2.jpg">
               			</div>
               			<div class="item">
-                			<img class="carousel-img" src="/images/WiC2.jpg">
+                			<img class="carousel-img" src="/images/WiC_GHC_2016.jpg">
               			</div>
               			<div class="item">
-                			<img class="carousel-img" src="/images/WiCHacksVolunteers.jpg">
+                			<img class="carousel-img" src="/images/NiagraFalls_2016.jpg">
               			</div>
               			<div class="item">
-                			<img class="carousel-img" src="/images/vintserf_index2015.jpg">
+                			<img class="carousel-img" src="/images/Halloween2016.jpg">
               			</div>
             		</div>
           		</div>
