@@ -48,16 +48,16 @@
                 			<img class="carousel-img" src="/images/WiC_Pre-Orientation_2016.jpg">
               			</div>
               			<div class="item">
-                			<img class="carousel-img" src="/images/GCCIS_Club_Day_2.jpg">
+                			<img class="carousel-img" src="/images/GCCIS_Club_Day_2.JPG">
               			</div>
               			<div class="item">
                 			<img class="carousel-img" src="/images/WiC_GHC_2016.jpg">
               			</div>
               			<div class="item">
-                			<img class="carousel-img" src="/images/NiagraFalls_2016.jpg">
+                			<img class="carousel-img" id="niagra-rotate" src="/images/NiagraFalls_2016.JPG">
               			</div>
               			<div class="item">
-                			<img class="carousel-img" src="/images/Halloween2016.jpg">
+                			<img class="carousel-img" src="/images/Halloween_2016.JPG">
               			</div>
             		</div>
           		</div>
