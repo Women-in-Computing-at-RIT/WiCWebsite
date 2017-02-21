@@ -328,7 +328,19 @@ background-image:none;
 	color: #3D5C10;
 	font-size: 1.5em;
 }
-
+.after-center{
+  margin-top: 1em;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+#title-after-center{
+  margin-top: 1em;
+	margin-left: 20%;
+	margin-right: 5%;
+}
+.after-small-text{
+  font-size: small;
+}
 /****** color and font *************/
 .WiColor {color:#4D1F5B;
 			}
@@ -355,7 +367,7 @@ border-radius: 4em 1em 4em 1em;
 	}
 
 .wicmenu {
-	padding-left:28%;
+	padding-left:20%;
 	width:100%;
 	margin-left:auto;
 	margin-right:auto;
@@ -411,7 +423,7 @@ a.list-group-item:focus {
   text-decoration: none;
   background-color: #ede8ee;
 }
-#links-panel a:hover,
+/*#links-panel a:hover,*/
 #links-panel a:focus {
 	color: #4D1F5B;
 }

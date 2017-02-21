@@ -43,6 +43,7 @@ echo '
 				<li><a href="/pages/who.php">Who We Are</a></li>
 				<li><a href="/pages/what.php">What We Do</a></li>
 				<li><a href="/pages/events.php">Events</a></li>
+        <li><a href="/pages/after-hours.php">After Hours</a></li>
         <li><a href="/pages/blog.php">Blog</a></li>
 				<li><a href="/pages/contact.php">Contact Us</a></li>
 			</ul>
@@ -61,6 +62,7 @@ echo '
 					<li class="tognav"><a href="/pages/who.php">Who We Are</a></li>
 					<li class="tognav"><a href="/pages/what.php">What We Do</a></li>
 					<li class="tognav"><a href="/pages/events.php">Events</a></li>
+          <li class="tognav"><a href="/pages/after-hours.php">After Hours</a></li>
 					<li class="tognav"><a href="/pages/contact.php">Contact Us</a></li>
         		</ul>
         	</div>

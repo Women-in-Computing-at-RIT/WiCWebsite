@@ -12,19 +12,19 @@
 	<div class="container main-container">
       		<div class="row">
         		<div class="col-md-3 WiCcolorBK meetings pull-left">
-        	        <h3>Fall Meeting Times</h3>
+        	        <h3>Spring Meeting Times</h3>
 					<hr>
 					<ul class="h4 nobullets">
 						<li>General Meeting: Wed &bull; 6:30pm &bull; GOL-2455</li>
-						<li>Events Committee: Mon &bull; 7:00pm &bull; GOL-2500</li>
+						<li>Events Committee: Thurs &bull; 6:30pm &bull; GOL-2600</li>
 						<li>Outreach Committee: Fri &bull; 2:00pm &bull; GOL-2600</li>
 						<li>Public Relations Committee: Mon &bull; 6:30pm &bull; GOL-2600</li>
-            <li>WiC Allies: Mon &bull; 1:00pm &bull; GOL-2600</li>
-            <li>WiCHacks Planning Committee: Wed &bull; 1:00pm &bull; GOL-2600</li>
-						<li>Projects Committee: Thu &bull; 3:30pm &bull; GOL-2600</li>
+            <li>WiC Allies: Mon &bull; 2:00pm &bull; GOL-2600</li>
+            <li>WiCHacks Planning Committee: Thurs &bull; 11:00am &bull; GOL-2600</li>
+						<li>Projects Committee: Thu &bull; 12:00pm &bull; GOL-2600</li>
               <ul class="nobullets pull-right">
-                <li>Raspberry Pi: Tues &bull; 12:30pm &bull; GOL-2600</li>
-                <li>Nearables: Tues &bull; 4pm &bull; GOL-2600</li>
+                <li>Raspberry Pi: Fri &bull; 11:00am &bull; RIT Construct</li>
+                <li>Nearables: TBA &bull; TBA</li>
                 <li>Alumni App: Thurs &bull; 4pm &bull; GOL-2600</li>
               </ul>
 					</ul>

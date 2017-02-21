@@ -29,6 +29,7 @@ echo '
   					<button type="button" class="btn btn-default"><a href="/pages/who.php">Who We Are</a></button>
   					<button type="button" class="btn btn-default"><a href="/pages/what.php">What We Do</a></button>
   					<button type="button" class="btn btn-default"><a href="/pages/events.php">Events</a></button>
+            <button type="button" class="btn btn-default"><a href="/pages/after-hours.php">After Hours</a></button>       
   					<button type="button" class="btn btn-default"><a href="/pages/contact.php">Contact Us</a></button>
 					</div>
 						
