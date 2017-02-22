@@ -65,14 +65,28 @@
       			<div class="col-md-3 WiCcolorBK featNws">
             <h3>Featured News</h3><hr>
 
-            <div class="row">
-						<div class="col-md-12">
-							<i class="fa fa-calendar fa-1x"></i>
-							<a href="https://www.youtube.com/watch?v=VrhxT86HW5Y">WiC students attend the Grace Hopper Conference.</a> <br/>
+			<div class="row">
+				<div class="col-md-12">
+					<i class="fa fa-calendar fa-1x"></i>
+					Looking for Girls Who Code Summer Camp Instructor and TA <br/>
+					Contact Lana: director@rit.edu
+				</div>
+			</div>
 
-						</div>
+			<div class="row">
+				<div class="col-md-12">
+					<i class="fa fa-calendar fa-1x"></i>
+					<a href="http://bit.ly/WiConnects2017">Sign up for WiConnects!</a> <br/>
+				</div>
+			</div>
+
+            <div class="row">
+					<div class="col-md-12">
+						<i class="fa fa-calendar fa-1x"></i>
+						<a href="https://www.youtube.com/watch?v=VrhxT86HW5Y">WiC students attend the Grace Hopper Conference.</a> <br/>
 					</div>
-            
+			</div>
+
           <div class="row">
 						<div class="col-md-12">
 							<i class="fa fa-calendar fa-1x"></i>
