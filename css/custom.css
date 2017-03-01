@@ -470,3 +470,7 @@ iframe{
  -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
  transform: rotate(180deg);
 }
+
+.tab-right{
+	margin-left: 13%;
+}

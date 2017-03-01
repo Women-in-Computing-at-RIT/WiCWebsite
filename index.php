@@ -19,14 +19,21 @@
 						<li>Events Committee: Thurs &bull; 6:30pm &bull; GOL-2600</li>
 						<li>Outreach Committee: Fri &bull; 2:00pm &bull; GOL-2600</li>
 						<li>Public Relations Committee: Mon &bull; 6:30pm &bull; GOL-2600</li>
-            <li>WiC Allies: Mon &bull; 2:00pm &bull; GOL-2600</li>
-            <li>WiCHacks Planning Committee: Thurs &bull; 11:00am &bull; GOL-2600</li>
+						<li>WiC Allies: Mon &bull; 2:00pm &bull; GOL-2600</li>
+						<li>WiCHacks Planning Committee: Thurs &bull; 11:00am &bull; GOL-2600</li>
 						<li>Projects Committee: Thu &bull; 12:00pm &bull; GOL-2600</li>
-              <ul class="nobullets pull-right">
-                <li>Raspberry Pi: Fri &bull; 11:00am &bull; RIT Construct</li>
-                <li>Nearables: TBA &bull; TBA</li>
-                <li>Alumni App: Thurs &bull; 4pm &bull; GOL-2600</li>
-              </ul>
+						<ul class="nobullets pull-right">
+							<li>Raspberry Pi: Fri &bull; 11:00am &bull; RIT Construct</li>
+							<li>Alumni App: Thurs &bull; 4pm &bull; GOL-2600</li>
+							<li>
+								Nearables: RIT Construct/SE Team Room
+								<ul class="nobullets tab-right">
+									<li>Sun &bull; 1:30pm</li>
+									<li>Tue &bull; 5:00pm</li>
+									<li>Thurs &bull; 5:00pm</li>
+								</ul>
+							</li>
+						</ul>
 					</ul>
 
         		</div>
