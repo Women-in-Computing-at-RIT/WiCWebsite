@@ -25,7 +25,7 @@
 
 						<div class="media">
 							<div class="media-left">
-								<img class="commiteeHeadImg img-circle" src="../images/director.png"></img>
+								<img class="commiteeHeadImg img-circle" src="../images/Lana.jpg"></img>
 							</div>
 							<div class="media-body">
 								<h5>Lana Verschange, Director of Women in Computing</h5>
