@@ -25,7 +25,6 @@
 					of affecting positive change and fostering a more inclusive
 					GCCIS culture.</h4>
 
-          <p>WiC Allies is a group of RIT and Golisano community members committed to furthering the mission and goals of Women in Computing,   for the purpose of affecting positive change and fostering a more inclusive Golisano culture.</p>
           <ul>
             <li>Current Goals
               <ul>

@@ -61,7 +61,7 @@
                 			<img class="carousel-img" src="/images/STEM_Fair_2017/Pic1.JPG">
               			</div>
               			<div class="item">
-                			<img class="carousel-img" id="niagra-rotate" src="/images/NiagraFalls_2016.JPG">
+                			<img class="carousel-img" src="/images/After_hours_2017.jpg">
               			</div>
               			<div class="item">
                 			<img class="carousel-img" src="/images/STEM_Fair_2017/Pic2.JPG">
@@ -71,6 +71,14 @@
       		</div>
       			<div class="col-md-3 WiCcolorBK featNws">
             <h3>Featured News</h3><hr>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <i class="fa fa-calendar fa-1x"></i>
+                    Reshma Saujani will be having a Talk! <br/>
+                    Friday April 21st from 4-5 pm in Ingle Auditorium
+                </div>
+            </div>
 
 			<div class="row">
 				<div class="col-md-12">
