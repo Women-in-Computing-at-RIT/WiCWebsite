@@ -15,7 +15,7 @@
         	        <h3>Fall Meeting Times</h3>
 					<hr>
 					<ul class="h4 nobullets">
-                        <li><b>General Meeting: Wed &bull; 6:30pm &bull; GOL-3560</b></li>
+                        <li><b>General Meeting:</b> Wed &bull; 6:30pm &bull; GOL-3560</li>
 						<li>Events Committee: Fri &bull; 2:00pm &bull; GOL-2600</li>
 						<li>Outreach Committee: Mon &bull; 4:35pm &bull; GOL-2600</li>
 						<li>Public Relations Committee: Mon &bull; 6:30pm &bull; GOL-2600</li>
