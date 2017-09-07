@@ -12,28 +12,16 @@
 	<div class="container main-container">
       		<div class="row">
         		<div class="col-md-3 WiCcolorBK meetings pull-left">
-        	        <h3>Spring Meeting Times</h3>
+        	        <h3>Fall Meeting Times</h3>
 					<hr>
 					<ul class="h4 nobullets">
-						<li>General Meeting: Wed &bull; 6:30pm &bull; GOL-2455</li>
-						<li>Events Committee: Thurs &bull; 6:30pm &bull; GOL-2600</li>
-						<li>Outreach Committee: Fri &bull; 2:00pm &bull; GOL-2600</li>
+                        <li><b>General Meeting: Wed &bull; 6:30pm &bull; GOL-3560</b></li>
+						<li>Events Committee: Fri &bull; 2:00pm &bull; GOL-2600</li>
+						<li>Outreach Committee: Mon &bull; 4:35pm &bull; GOL-2600</li>
 						<li>Public Relations Committee: Mon &bull; 6:30pm &bull; GOL-2600</li>
-						<li>WiC Allies: Mon &bull; 2:00pm &bull; GOL-2600</li>
-						<li>WiCHacks Planning Committee: Thurs &bull; 11:00am &bull; GOL-2600</li>
-						<li>Projects Committee: Thu &bull; 12:00pm &bull; GOL-2600</li>
-						<ul class="nobullets pull-right">
-							<li>Raspberry Pi: Fri &bull; 11:00am &bull; RIT Construct</li>
-							<li>Alumni App: Thurs &bull; 4pm &bull; GOL-2600</li>
-							<li>
-								Nearables: RIT Construct/SE Team Room
-								<ul class="nobullets tab-right">
-									<li>Sun &bull; 1:30pm</li>
-									<li>Tue &bull; 5:00pm</li>
-									<li>Thurs &bull; 5:00pm</li>
-								</ul>
-							</li>
-						</ul>
+						<li>WiC Allies: Mon &bull; 11:20am &bull; GOL-2600</li>
+						<li>WiCHacks Committee: Wed &bull; 8:00pm &bull; GOL-2600</li>
+						<li>Projects Committee: Mon &bull; 5:35pm &bull; GOL-2600</li>
 					</ul>
 
         		</div>
@@ -61,7 +49,7 @@
                 			<img class="carousel-img" src="/images/STEM_Fair_2017/Pic1.JPG">
               			</div>
               			<div class="item">
-                			<img class="carousel-img" id="niagra-rotate" src="/images/NiagraFalls_2016.JPG">
+                			<img class="carousel-img" src="/images/NiagraFalls_2016.JPG">
               			</div>
               			<div class="item">
                 			<img class="carousel-img" src="/images/STEM_Fair_2017/Pic2.JPG">
@@ -116,13 +104,7 @@
 				     <a href="http://bit.ly/WiC_Workshops">Submit your ideas for more WiC Projects Workshops here!</a>
 						</div>
 					</div>
-					<div class="row">
-						<div class="col-md-12">
-							<i class="fa fa-calendar fa-1x"></i>
-							<a href="https://drive.google.com/file/d/0BwJ3QhYbueKObmdTcVYtcEJSTzA/view?usp=sharing">WiC '14-'15 Recap Video</a> <br/>
 
-				    </div>
-				</div>
 			</div>
 
 

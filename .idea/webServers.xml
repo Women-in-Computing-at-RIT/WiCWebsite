@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="9fb95113-c9ea-4aa9-9d12-0fc0be8165cf" name="WiC Server" url="http://wic.se.rit.edu">
-        <fileTransfer host="wic.se.rit.edu" port="22" privateKey="C:\Users\Claire\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+        <fileTransfer host="wic.se.rit.edu" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
