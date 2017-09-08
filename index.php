@@ -15,18 +15,22 @@
         	        <h3>Fall Meeting Times</h3>
 					<hr>
 					<ul class="h4 nobullets">
-                        <li><b>General Meeting: Wed &bull; 6:30pm &bull; GOL-3560</b></li>
+                        <li><b>General Meeting: Wed &bull; 6:30pm &bull; GOL-3560</b> </li>
 						<li>Events Committee: Fri &bull; 2:00pm &bull; GOL-2600</li>
 						<li>Outreach Committee: Mon &bull; 4:35pm &bull; GOL-2600</li>
-						<li>Public Relations Committee: Mon &bull; 6:30pm &bull; GOL-2600</li>
-						<li>WiC Allies: Mon &bull; 11:20am &bull; GOL-2600</li>
+						<li>Public Relations Committee: Mon &bull; 6:30pm &bull; INS-1080</li>
+						<li>WiC Allies: Mon &bull; 11:20am &bull; SLA-2170</li>
 						<li>WiCHacks Committee: Wed &bull; 8:00pm &bull; GOL-2600</li>
 						<li>Projects Committee: Mon &bull; 5:35pm &bull; GOL-2600</li>
 					</ul>
 
         		</div>
         		<div class="col-md-6">
-          		<div id="wiccarousel" class="carousel slide" data-ride="carousel">
+                    <iframe width="560px" height="315px" src="https://www.youtube.com/embed/OxlXmc-jViI?rel=0"
+                            frameborder="0" allowfullscreen></iframe>
+
+                   <!-- carousel
+          		    <div id="wiccarousel" class="carousel slide" data-ride="carousel">
             		<ol class="carousel-indicators">
               			<li data-target="#wiccarousel" data-slide-to="0" class="active"></li>
               			<li data-target="#wiccarousel" data-slide-to="1"></li>
@@ -56,36 +60,40 @@
               			</div>
             		</div>
           		</div>
-      		</div>
+          		    -->
+
+      		    </div>
       			<div class="col-md-3 WiCcolorBK featNws">
             <h3>Featured News</h3><hr>
 
 			<div class="row">
 				<div class="col-md-12">
 					<i class="fa fa-calendar fa-1x"></i>
-					Looking for Girls Who Code Summer Camp Instructor and TA <br/>
-					Contact Lana: director@rit.edu
+                    <a href="http://www.rit.edu/news/photoarchive.php?view=photo&datePhoto=2017-01-31">
+                        Campus Spotlight: WiC and the Girl Scouts</a> <br/>
 				</div>
 			</div>
 
 			<div class="row">
 				<div class="col-md-12">
 					<i class="fa fa-calendar fa-1x"></i>
-					<a href="http://bit.ly/WiConnects2017">Sign up for WiConnects!</a> <br/>
+					<a href="http://rbj.net/2017/04/20/founder-of-girls-who-code-to-speak-at-rit/">
+                        Founder of Girls Who Code to speak at RIT </a> <br/>
 				</div>
 			</div>
 
             <div class="row">
 					<div class="col-md-12">
 						<i class="fa fa-calendar fa-1x"></i>
-						<a href="https://www.youtube.com/watch?v=VrhxT86HW5Y">WiC students attend the Grace Hopper Conference.</a> <br/>
+						<a href="http://www.rit.edu/news/story.php?id=61929&source=enewsletter">
+                            Girl Scouts honor WiC for promoting girls in STEM</a> <br/>
 					</div>
 			</div>
 
           <div class="row">
 						<div class="col-md-12">
 							<i class="fa fa-calendar fa-1x"></i>
-							<a href="https://www.youtube.com/watch?v=tacEIv64Jtk">WiC Hacks 2016 was a huge success! Check us out on TV!</a> <br/>
+							<a href="https://www.youtube.com/watch?v=OqUx7HMd4zY">WiC on TV: Good Day Rochester</a> <br/>
 
 						</div>
 					</div>
@@ -93,7 +101,8 @@
 					<div class="row">
 						<div class="col-md-12">
 							<i class="fa fa-calendar fa-1x"></i>
-							<a href="https://www.facebook.com/WICATRIT/photos/a.10152845186096777.1073741825.144033821776/10153849043636777/?type=1&permPage=1">Datto Dedicated a Red Chair to WiC!</a> <br/>
+							<a href="http://www.rit.edu/news/story.php?id=59631&source=enewsletter">
+                                University News: WiC Hacks 2017</a> <br/>
 
 						</div>
 					</div>
@@ -101,11 +110,18 @@
 					<div class="row">
 						<div class="col-md-12">
 							<i class="fa fa-calendar fa-1x"></i>
-				     <a href="http://bit.ly/WiC_Workshops">Submit your ideas for more WiC Projects Workshops here!</a>
+				     <a href="https://www.youtube.com/watch?v=AS9TWebVQ98">WiC on TV: STEM Fair 2017 - ABC 13</a>
 						</div>
 					</div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <i class="fa fa-calendar fa-1x"></i>
+                            <a href="https://www.youtube.com/watch?v=KEoWd_4Exag">WiC on TV: STEM Fair 2017 - TWC News</a>
+                        </div>
+                    </div>
 
-			</div>
+
+                </div>
 
 
 	<!--<div class="announce row WiCcolorBK col-md-6">

@@ -23,7 +23,7 @@
 			<div class="col-md-9 WiCcolorBK">
 				<h1>Upcoming Events</h1>
 				<div class="row">
-				<iframe src="https://www.google.com/calendar/embed?src=wicatrit%40gmail.com&ctz=America/New_York" frameborder="0" scrolling="no">
+				<iframe class="eCalender" src="https://www.google.com/calendar/embed?src=wicatrit%40gmail.com&ctz=America/New_York" frameborder="0" scrolling="no">
         </iframe>
 			</div>
 		</div>

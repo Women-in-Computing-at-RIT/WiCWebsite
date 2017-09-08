@@ -56,7 +56,7 @@
 						</div>
 						<div class="media">
 							<div class="media-left">
-								<img class="commiteeHeadImg img-circle" src="../images/CH_16-17/TempImg.jpg"></img>
+								<img class="commiteeHeadImg img-circle" src="../images/CH_17-18/Catherine.jpg"></img>
 							</div>
 							<div class="media-body">
 								<h5>Catherine Nemechek, Events</h5>
@@ -81,7 +81,7 @@
 
 						<div class="media">
 							<div class="media-left">
-								<img class="commiteeHeadImg img-circle" src="../images/CH_16-17/TempImg.jpg"></img>
+								<img class="commiteeHeadImg img-circle" src="../images/CH_17-18/Sarah.jpg"></img>
 							</div>
 							<div class="media-body">
 								<h5>Sarah Fomchenko and Cassidy Horzempa, Outreach</h5>
@@ -93,10 +93,13 @@
 								Campus Summer Camp, and shadow visits from
 								prospective students.</h6>
 							</div>
+                            <div class="media-right">
+                                <img class="commiteeHeadImg img-circle" src="../images/CH_17-18/Cassidy.jpg"></img>
+                            </div>
 						</div>
 						<div class="media">
 							<div class="media-left">
-								<img class="commiteeHeadImg img-circle" src="../images/CH_16-17/TempImg.jpg"></img>
+								<img class="commiteeHeadImg img-circle" src="../images/CH_17-18/Regina.jpg"></img>
 							</div>
 							<div class="media-body">
 								<h5>Regina Locicero, Projects</h5>
@@ -109,7 +112,7 @@
 						</div>
 						<div class="media">
 							<div class="media-left">
-								<img class="commiteeHeadImg img-circle" src="../images/CH_16-17/TempImg.jpg"></img>
+								<img class="commiteeHeadImg img-circle" src="../images/CH_17-18/Sneha.jpg"></img>
 							</div>
 							<div class="media-body">
 								<h5>Sneha Vaswani, WiC Hacks</h5>
@@ -122,7 +125,7 @@
 						</div>
 						<div class="media">
 							<div class="media-left">
-								<img class="commiteeHeadImg img-circle" src="../images/CH_16-17/TempImg.jpg"></img>
+								<img class="commiteeHeadImg img-circle" src="../images/CH_17-18/Lauren.jpg"></img>
 							</div>
 							<div class="media-body">
 								<h5>Lauren DiDonato, WiC WebMaster</h5>
@@ -132,7 +135,7 @@
 						</div>
 						<div class="media">
 							<div class="media-left">
-								<img class="commiteeHeadImg img-circle" src="../images/CH_16-17/TempImg.jpg"></img>
+								<img class="commiteeHeadImg img-circle" src="../images/CH_17-18/Bill.jpg"></img>
 							</div>
 							<div class="media-body">
 								<h5>Bill Krodthoff, WiC Allies</h5>
