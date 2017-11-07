@@ -24,7 +24,7 @@
         
         <br>
         
-        <h4>Here is where you will find interviews of WiC affiliated students, faculty, and guests. Click a sidebar link to get started!</h4>
+        <h4>Here is where you will find interviews from all the tech talks hosted by WiC! Click a company on the sidebar to get started</h4>
         
         <br>
         <br>

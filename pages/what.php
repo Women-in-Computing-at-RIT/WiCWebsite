@@ -24,7 +24,7 @@
 				<h1>What We Do</h1>
 				<h4 class="eventlinks">
 					Women in Computing at RIT plans and executes three annual events: 
-					<a href="http://wic-hacks.rit.edu">WiCHacks</a>, 
+					<a href="https://wichacks.io/">WiCHacks</a>,
 					<a href="http://wic-after-hours.rit.edu">WiC After Hours</a>, and 
 					<a href="#">WiConnects</a>. WiC works with young women in K-8, 
 					prospective students in high school, and current students at RIT. 

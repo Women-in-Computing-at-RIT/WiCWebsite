@@ -17,7 +17,7 @@ echo '<div class="panel panel-default">
 			echo ($_SERVER['PHP_SELF'] == '/pages/projects.php' ? ' active' : '');
 			echo "'>Projects</a>";
 
-      echo "<a target='_blank' href='http://wic-hacks.rit.edu/' class='list-group-item'>";
+      echo "<a target='_blank' href='https://wichacks.io/' class='list-group-item'>";
       echo "WiCHacks </a>";
 
 			echo "</div></div>";

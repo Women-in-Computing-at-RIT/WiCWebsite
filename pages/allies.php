@@ -39,8 +39,6 @@
             </li>
             <li>Volunteering at WiC events</li>
           </ul>
-
-					<p><span class="h4">For more information about WiC Allies, contact:</span><span class="h5">director@wic.rit.edu</span></p>
 				<div class="row">&nbsp;</div>
 				<div class="row">
 					<div class="col-md-6">

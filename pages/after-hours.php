@@ -42,8 +42,9 @@
 			</div>
 			<div class="row" style="margin-top: 20px;">
 				<div class="col-md-6">
-					<h4>Program Date: April 1st or 8th, 2017</h4>
-					<a class="btn btn-primary register-button" role="button">Registration Closed!</a> <!--Register for WiC After Hours-->
+					<h4>Program Date: March 31st or April 7th, 2018</h4>
+					<!-- <a class="btn btn-primary register-button" role="button">Registration Closed!</a> ->
+					 <!--Register for WiC After Hours-->
 				</br>
 				<h4 style="margin-top: 1em;">
 						The Women in Computing (WiC) After Hours Program is an <b>overnight</b> program for women accepted into the B. Thomas Golisano College of Computing. This <b>free program</b> is an opportunity to experience first-hand campus life at RIT that a typical tour can’t provide.  It is organized and hosted by Women in Computing students and in conjunction with the RIT Admission’s Office.  It is a great opportunity to meet new friends and possibly your future roommate!  This program is BY INVITE ONLY.  Don’t miss this opportunity to get connected to your home away from home!				</h4>
@@ -57,14 +58,14 @@
 						<h3 class="panel-title">Links</h3>
 					</div>
 					<div class="panel-body" id="links-panel">
-						<p>Volunteers</p>
+						<!-- <p>Volunteers</p>
 						<ul>
 							<li>Coming Soon!</li>
 							</ul>
 							<p>WiC After Hours</p>
 							<ul>
 								<li class="after-small-text"><a href="../pdfs/after-hours/2017-Women-in-Computing-After-Hours-Schedule.pdf">Final Schedule</a></li>
-							</ul>
+							</ul> -->
 							<p>Information</p>
 							<ul>
 								<li class="after-small-text"><a href="../pdfs/after-hours/2017-FAQ-WiC-Overnight.pdf">Frequently Asked Questions</a></li>
